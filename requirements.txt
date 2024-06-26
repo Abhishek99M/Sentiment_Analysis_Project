@@ -1,0 +1,6 @@
+nltk
+textblob
+pandas
+numpy
+matplotlib
+seaborn
